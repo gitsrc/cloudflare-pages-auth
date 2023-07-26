@@ -1,3 +1,4 @@
+ps： must use ```npx wrangler pages deploy ./``` ,because pages functions can't run through pages functions
 # cloudflare-pages-auth
 
 Static site that is password-protected when deployed to Cloudflare Pages. This is a SvelteKit project, but the password-protection works independently of the framework you use.
